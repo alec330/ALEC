@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+asdf.txt
+=======
+asdf.txt
+>>>>>>>

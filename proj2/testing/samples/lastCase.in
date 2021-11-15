@@ -1,0 +1,34 @@
+> init
+<<<
++ hello.txt hello.txt
+> add hello.txt
+<<<
++ game.txt game.txt
+> add game.txt
+<<<
+> commit "Create hello.txt and game.txt"
+<<<
+> branch proj3
+<<<
++ hello.txt wug.txt
+> add hello.txt
+<<<
++ deque.txt notwug.txt
+> add deque.txt
+<<<
+> commit "Edit hello.txt and deque.txt"
+<<<
+> checkout proj3
+<<<
++ design.txt asdf.txt
+> add design.txt
+<<<
+> rm game.txt
+<<<
+> commit "Add design.txt, rm game.txt"
+<<<
+> merge master
+<<<
+> rm deque.txt
+<<<
+* deque.txt
